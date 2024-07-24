@@ -1,8 +1,15 @@
-clone or download the repo, and extract it
+# Project Title
 
-run the INNSSIGHT_OFFICIAL.exe
+## Instructions
 
-Admin: admin
-Password: 12345
+1. Clone or download the repository, and extract it.
+2. Run the `INNSSIGHT_OFFICIAL.exe`.
 
-Video: https://drive.google.com/file/d/1UhCwhklN3IYTFK0zXr1QGvrD6RxVtFwj/view?usp=sharing
+### Admin Credentials
+
+- **Username:** admin
+- **Password:** 12345
+
+### Video
+
+[Click here to view the video](https://drive.google.com/file/d/1UhCwhklN3IYTFK0zXr1QGvrD6RxVtFwj/view?usp=sharing)
